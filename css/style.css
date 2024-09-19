@@ -11,7 +11,7 @@ h1 {
 }
 
 #id__example {
-  background-color: chartreuse;
+  background-color: purple;
 }
 
 p[lang] {
@@ -36,5 +36,5 @@ span ~ p {
 
 .item__style,
 #id__style {
-  background-color: blue;
+  background-color: darkcyan;
 }
