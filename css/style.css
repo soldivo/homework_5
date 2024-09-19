@@ -1,39 +1,49 @@
+/* 0 */
 * {
   margin: 0;
 }
 
+/* 1 */
 h1 {
   background-color: aqua;
 }
 
+/* 10 */
 .item__example {
   background-color: brown;
 }
 
+/* 100 */
 #id__example {
   background-color: purple;
 }
 
+/* 11 */
 p[lang] {
   background-color: darkblue;
 }
 
+/* 11 */
 .nested__selector p {
   background-color: fuchsia;
 }
 
+/* 11 */
 .daughter__selector > p {
   background-color: gold;
 }
 
+/* 2 */
 h2 + p {
   background-color: indianred;
 }
 
+/* 2 */
 span ~ p {
   background-color: khaki;
 }
 
+/* 110 */
 .item__style,
 #id__style {
   background-color: darkcyan;
